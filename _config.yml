@@ -17,8 +17,8 @@
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "백엔드 개발자 블로그"
+description: "Endless"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://cyeogy.github.io" #e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
